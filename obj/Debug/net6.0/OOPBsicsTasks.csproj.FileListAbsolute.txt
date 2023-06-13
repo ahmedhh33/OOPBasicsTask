@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\TRA-Code\OOPBsicsTasks\OOPBsicsTasks\bin\Debug\net6.0\OOPBsicsTasks.exe
+C:\Users\TRA\Desktop\TRA-Code\OOPBsicsTasks\OOPBsicsTasks\bin\Debug\net6.0\OOPBsicsTasks.deps.json
+C:\Users\TRA\Desktop\TRA-Code\OOPBsicsTasks\OOPBsicsTasks\bin\Debug\net6.0\OOPBsicsTasks.runtimeconfig.json
+C:\Users\TRA\Desktop\TRA-Code\OOPBsicsTasks\OOPBsicsTasks\bin\Debug\net6.0\OOPBsicsTasks.dll
+C:\Users\TRA\Desktop\TRA-Code\OOPBsicsTasks\OOPBsicsTasks\bin\Debug\net6.0\OOPBsicsTasks.pdb
+C:\Users\TRA\Desktop\TRA-Code\OOPBsicsTasks\OOPBsicsTasks\obj\Debug\net6.0\OOPBsicsTasks.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\TRA-Code\OOPBsicsTasks\OOPBsicsTasks\obj\Debug\net6.0\OOPBsicsTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\TRA-Code\OOPBsicsTasks\OOPBsicsTasks\obj\Debug\net6.0\OOPBsicsTasks.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\TRA-Code\OOPBsicsTasks\OOPBsicsTasks\obj\Debug\net6.0\OOPBsicsTasks.AssemblyInfo.cs
+C:\Users\TRA\Desktop\TRA-Code\OOPBsicsTasks\OOPBsicsTasks\obj\Debug\net6.0\OOPBsicsTasks.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\TRA-Code\OOPBsicsTasks\OOPBsicsTasks\obj\Debug\net6.0\OOPBsicsTasks.dll
+C:\Users\TRA\Desktop\TRA-Code\OOPBsicsTasks\OOPBsicsTasks\obj\Debug\net6.0\refint\OOPBsicsTasks.dll
+C:\Users\TRA\Desktop\TRA-Code\OOPBsicsTasks\OOPBsicsTasks\obj\Debug\net6.0\OOPBsicsTasks.pdb
+C:\Users\TRA\Desktop\TRA-Code\OOPBsicsTasks\OOPBsicsTasks\obj\Debug\net6.0\OOPBsicsTasks.genruntimeconfig.cache
+C:\Users\TRA\Desktop\TRA-Code\OOPBsicsTasks\OOPBsicsTasks\obj\Debug\net6.0\ref\OOPBsicsTasks.dll
