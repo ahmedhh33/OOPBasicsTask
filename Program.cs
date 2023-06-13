@@ -20,9 +20,12 @@
 
 
            
-            Circle circle1 = new Circle(3.3);
-            Console.WriteLine("The area of " + circle1 + " = " + circle1.Area);
+            Circle circle1 = new Circle(3.3);// EX 2
+            Console.WriteLine("The area of " + "circle1" + " = " + circle1.Area);
             //areaOfCircle();
+
+            Circle circle2 = new Circle(5);// EX 2
+            Console.WriteLine("The area of " + "circle2" + " = " + circle2.Area);
 
         }
     }

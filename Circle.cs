@@ -2,7 +2,7 @@
 
 namespace OOPBsicsTasks
 {
-    internal class Circle
+    internal class Circle //EX 2
     {
         public double Radius;
         public double Area;
