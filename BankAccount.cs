@@ -2,7 +2,7 @@
 
 namespace OOPBsicsTasks
 {
-    internal class BankAccount
+    internal class BankAccount // EX3 
     {
         public string AccountNumber;
         public string OwnertName;

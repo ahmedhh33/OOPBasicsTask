@@ -30,13 +30,21 @@
             Console.WriteLine();
             Console.WriteLine();
 
-            BankAccount myAccount = new BankAccount("92544","Ahmed Humaid",100);
+            BankAccount myAccount = new BankAccount("92544","Ahmed Humaid",100);// EX 3
             //myAccount.Disposit(50);
-            Console.WriteLine(myAccount.Disposit(50));
+            Console.WriteLine("The amount after dispositing for " + myAccount.OwnertName + " = " + myAccount.Disposit(50));
             //myAccount.Withdraw(75);
-            Console.WriteLine(myAccount.Withdraw(75));
+            Console.WriteLine("The amount after dispositing for " + myAccount.OwnertName + " = " + myAccount.Withdraw(75));
             //myAccount.Withdraw(100);
-            Console.WriteLine(myAccount.Withdraw(100));
+            Console.WriteLine("The amount after dispositing for " + myAccount.OwnertName + " = " + myAccount.Withdraw(100));
+
+            BankAccount myAccount2 = new BankAccount("7790", "Salim Humaid", 456);// EX 3
+            //myAccount.Disposit(50);
+            Console.WriteLine("The amount after dispositing for "+myAccount2.OwnertName+" = "+myAccount2.Disposit(140));
+            //myAccount.Withdraw(75);
+            Console.WriteLine("The amount after withdrowing = " + myAccount2.OwnertName + " = " + myAccount2.Withdraw(289));
+            //myAccount.Withdraw(100);
+            Console.WriteLine("The amount after withdrowing = " + myAccount2.OwnertName + " = " + myAccount2.Withdraw(10));
 
         }
     }
