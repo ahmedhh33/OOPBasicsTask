@@ -18,8 +18,8 @@
             Console.WriteLine("year :" + book2.year);
             Console.WriteLine();
 
+            Console.WriteLine("*******************************************************************************************");
 
-           
             Circle circle1 = new Circle(3.3);// EX 2
             Console.WriteLine("The area of " + "circle1" + " = " + circle1.Area);
             //areaOfCircle();
@@ -28,7 +28,7 @@
             Console.WriteLine("The area of " + "circle2" + " = " + circle2.Area);
 
             Console.WriteLine();
-            Console.WriteLine();
+            Console.WriteLine("*******************************************************************************************");
 
             BankAccount myAccount = new BankAccount("92544","Ahmed Humaid",100);// EX 3
             //myAccount.Disposit(50);
@@ -46,6 +46,14 @@
             //myAccount.Withdraw(100);
             Console.WriteLine("The amount after withdrowing = " + myAccount2.OwnertName + " = " + myAccount2.Withdraw(10));
 
+            Console.WriteLine();
+            Console.WriteLine("*******************************************************************************************");
+
+            Employee employee1 = new Employee("Mohammed Alsikiti ", " IT Head ", 1478); //EX4
+            Console.WriteLine("the name is " + employee1.Name + " the position is " + employee1.position + " the salary is " + employee1.Salary);
+
+            Employee employee2 = new Employee("Mohammed Alhabsi ", " CEO ", 4000); //EX4
+            Console.WriteLine("the name is " + employee2.Name + " the position is " + employee2.position + " the salary is " + employee2.Salary);
         }
     }
 }
